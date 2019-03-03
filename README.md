@@ -15,6 +15,11 @@
 针对大家问题比较多的问题或者大家在平常数据分析工作中有需求，但是本书没有涉及到的内容，我会专门来写相应的教程发出来。
 [额外教程](https://github.com/junhongzhang/Excel-Python-DA/tree/master/%E6%9C%AC%E4%B9%A6%E9%A2%9D%E5%A4%96%E6%95%99%E7%A8%8B)
 
+# 本书所需Python安装包
+可以直接到百度云下载所需要的Python安装包。[下载地址](https://github.com/junhongzhang/Excel-Python-DA)
+
 # github教程
 如果你对github不是很熟悉，可以参考以下文档进行学习。
 [github教程](https://github.com/junhongzhang/Excel-Python-DA/blob/master/learn-github-from-zero.pdf)
+
+
