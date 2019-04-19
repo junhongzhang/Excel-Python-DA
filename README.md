@@ -24,7 +24,3 @@
 
 # 本书所需Python安装包
 可以直接到百度云下载所需要的Python安装包。[下载地址](https://github.com/junhongzhang/Excel-Python-DA)
-
-# github教程
-如果你对github不是很熟悉，可以参考以下文档进行学习。
-[github教程](https://github.com/junhongzhang/Excel-Python-DA/blob/master/learn-github-from-zero.pdf)
